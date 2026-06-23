@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.nonsense.biscuits_music_disc.desc"
+  },
+  "length_in_seconds": 180,
+  "sound_event": "nonsense:biscuits_grayto"
+}

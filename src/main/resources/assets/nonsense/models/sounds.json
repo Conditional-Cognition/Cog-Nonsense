@@ -1,0 +1,11 @@
+{
+  "custom_sound_name": {
+    "subtitle": "subtitles.nonsense.biscuits",
+    "sounds": [
+      {
+        "name": "nonsense:biscuits_music",
+        "stream": true
+      }
+    ]
+  }
+}

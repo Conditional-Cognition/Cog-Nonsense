@@ -1,0 +1,70 @@
+{
+  "itemGroup.nonsense": "Nonsense",
+  "block.nonsense.teacup": "Teacup",
+
+  "item.nonsense.teacup": "Teacup",
+  
+  "item.nonsense.stone_teaspoon": "Stone Teaspoon",
+  "item.nonsense.wooden_teaspoon": "Wooden Teaspoon",
+  "item.nonsense.iron_teaspoon": "Iron Teaspoon",
+  "item.nonsense.golden_teaspoon": "Golden Teaspoon",
+  "item.nonsense.diamond_teaspoon": "Diamond Teaspoon",
+  "item.nonsense.netherite_teaspoon": "Netherite Teaspoon",
+
+  "item.nonsense.stone_tablespoon": "Stone Tablespoon",
+  "item.nonsense.wooden_tablespoon": "Wooden Tablespoon",
+  "item.nonsense.iron_tablespoon": "Iron Tablespoon",
+  "item.nonsense.golden_tablespoon": "Golden Tablespoon",
+  "item.nonsense.diamond_tablespoon": "Diamond Tablespoon",
+  "item.nonsense.netherite_tablespoon": "Netherite Tablespoon",
+
+  "item.nonsense.oolong_teabag": "Oolong Teabag",
+  "item.nonsense.green_teabag": "Green Teabag",
+  "item.nonsense.black_teabag": "Black Teabag",
+  "item.nonsense.chamomile_teabag": "Chamomile Teabag",
+
+  "item.nonsense.oolong_tea_bucket": "Oolong Tea Bucket",
+  "item.nonsense.green_tea_bucket": "Green Tea Bucket",
+  "item.nonsense.black_tea_bucket": "Black Tea Bucket",
+  "item.nonsense.chamomile_tea_bucket": "Chamomile Tea Bucket",
+  
+  "tooltip.nonsense.tea_flavor": "Flavor",
+
+  "block.nonsense.oak_table": "Oak Table",
+  "block.nonsense.spruce_table": "Spruce Table",
+  "block.nonsense.birch_table": "Birch Table",
+  "block.nonsense.jungle_table": "Jungle Table",
+  "block.nonsense.acacia_table": "Acacia Table",
+  "block.nonsense.dark_oak_table": "Dark Oak Table",
+  "block.nonsense.mangrove_table": "Mangrove Table",
+  "block.nonsense.cherry_table": "Cherry Table",
+  "block.nonsense.bamboo_table": "Bamboo Table",
+  "block.nonsense.crimson_table": "Crimson Table",
+  "block.nonsense.warped_table": "Warped Table",
+
+  "block.nonsense.andesite_table": "Andesite Table",
+  "block.nonsense.diorite_table": "Diorite Table",
+  "block.nonsense.granite_table": "Granite Table",
+  "block.nonsense.stone_table": "Stone Table",
+
+  "item.nonsense.oak_table": "Oak Table",
+  "item.nonsense.spruce_table": "Spruce Table",
+  "item.nonsense.birch_table": "Birch Table",
+  "item.nonsense.jungle_table": "Jungle Table",
+  "item.nonsense.acacia_table": "Acacia Table",
+  "item.nonsense.dark_oak_table": "Dark Oak Table",
+  "item.nonsense.mangrove_table": "Mangrove Table",
+  "item.nonsense.cherry_table": "Cherry Table",
+  "item.nonsense.bamboo_table": "Bamboo Table",
+  "item.nonsense.crimson_table": "Crimson Table",
+  "item.nonsense.warped_table": "Warped Table",
+
+  "item.nonsense.andesite_table": "Andesite Table",
+  "item.nonsense.diorite_table": "Diorite Table",
+  "item.nonsense.granite_table": "Granite Table",
+  "item.nonsense.stone_table": "Stone Table",
+
+  "item.nonsense.biscuits_music_disc": "Music Disc",
+  "item.nonsense.biscuits_music_disc.desc": "MTSG and Grayto - The Brits are Coming (Instrumental)",
+  "jukebox_song.nonsense.biscuits": "MTSG and Grayto - The Brits are Coming (Instrumental)"
+}

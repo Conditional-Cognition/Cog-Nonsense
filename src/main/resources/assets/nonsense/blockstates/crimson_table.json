@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/crimson_table" },
+    "axis=z": { "model": "nonsense:block/crimson_table", "y": 90 }
+  }
+}

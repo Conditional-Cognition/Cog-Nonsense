@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/warped_table" },
+    "axis=z": { "model": "nonsense:block/warped_table", "y": 90 }
+  }
+}

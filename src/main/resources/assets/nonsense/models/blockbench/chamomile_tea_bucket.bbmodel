@@ -1,0 +1,122 @@
+{
+  "elements": [],
+  "export_options": {
+    "image": {
+      "format": "png",
+      "alpha_channel": true,
+      "animation_fps": 7,
+      "quality": 1
+    }
+  },
+  "groups": [],
+  "meta": {
+    "format_version": "5.0",
+    "model_format": "image",
+    "box_uv": false
+  },
+  "multi_file_ruleset": "",
+  "name": "chamomile_tea_bucket",
+  "outliner": [],
+  "resolution": {
+    "width": 16,
+    "height": 16
+  },
+  "textures": [
+    {
+      "name": "chamomile_tea_bucket.png",
+      "relative_path": "../../textures/item/chamomile_tea_bucket.png",
+      "folder": "block",
+      "namespace": "",
+      "id": "0",
+      "group": "",
+      "scope": 0,
+      "width": 16,
+      "height": 16,
+      "uv_width": 16,
+      "uv_height": 16,
+      "particle": false,
+      "use_as_default": false,
+      "layers_enabled": true,
+      "sync_to_project": "",
+      "file_format": "png",
+      "render_mode": "default",
+      "render_sides": "auto",
+      "wrap_mode": "limited",
+      "pbr_channel": "color",
+      "fps": 7,
+      "frame_time": 1,
+      "frame_order_type": "loop",
+      "frame_order": "",
+      "frame_interpolate": false,
+      "downscale_target_width": 0,
+      "downscale_target_height": 0,
+      "downscale_filter": "",
+      "visible": true,
+      "internal": true,
+      "saved": true,
+      "uuid": "cc0da657-e5a8-3e9e-cb48-80cb21439465",
+      "layers": [
+        {
+          "name": "layer",
+          "offset": [
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1
+          ],
+          "opacity": 100,
+          "visible": true,
+          "blend_mode": "default",
+          "width": 16,
+          "height": 16,
+          "data_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVR4AaSSMWqAQBBFJzmCZxBsbSw9ioVn8ByewcKjWKmNlSDYaK+ddcITRnbWDQlE+KzO//N2R/2Uf15BQJZlXyGF9jIAbcrzXMqyfFRVlSD1XdADwKQRHcchfd/fWtdVhmG4BRSfrEIeAAUa932X67puUXMFjIxbM4B5nmXbNtcXt6HrOiHjBgygbdt7ViCIMKIRcXzG+BGAkaapAEK8OEQTzfi+zAnUTJJEb19rFEWmZgDTNBnzLw8GwOf6rek8TxN5AOM4fvCicJdlYXkpjmNpmkbIqvkAtOCP4e+oOV0NAHJd1+JD+IFCuwMxAAoKKYpCgHFkRmPFI+PqBcAkGBKer28AAAD//2MHNyMAAAAGSURBVAMAz/+rISdO1K8AAAAASUVORK5CYII="
+        },
+        {
+          "name": "layer #2",
+          "offset": [
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1
+          ],
+          "opacity": 100,
+          "visible": true,
+          "blend_mode": "default",
+          "width": 16,
+          "height": 16,
+          "data_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4AeyQMQrAIAwAQ0cf4VN8QSdnn+fs5At8io9wbq80YKDQoXRTOExicgQ3+Xj+EeSca74ppVRordWnZc0GDNHsvRdwzpkZJLzPRSPQgd67wBhDgAFy0JwaGEGMcQdEugExjeQppT2dkCtGoEUkIYRLRgzk+j7fj4K54S1eApH1ByIHAAAA//8Ij70YAAAABklEQVQDAEyCPSGjkBvlAAAAAElFTkSuQmCC"
+        },
+        {
+          "name": "layer #3",
+          "offset": [
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1
+          ],
+          "opacity": 100,
+          "visible": true,
+          "blend_mode": "multiply",
+          "width": 16,
+          "height": 16,
+          "data_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVElEQVR4AeyQUQoAEBBEhyM4nEM6nCvQfGzt1kiSP2oib7w2GZfrjaA3DBU1bJjAHqki7xQPApZOEwSlIjErCRnjeRAYYEnFuN+lwBd25y8A/h8AEwAA//8SIGazAAAABklEQVQDAMegHiEcqM8wAAAAAElFTkSuQmCC"
+        }
+      ],
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABVElEQVR4AaSPsUrDUBiFj5XaQbAQ+giBbBKQ6yDESfAN3AJmcnCMiw+R1dEMWUQHHyIu5iIEwSGQyU2RiEUl1UFzUm7amwYUGjj57/+f83836WHJpxMghPjpUtddGkAtHWxKHG5PdbQjcbwrcbovofx5UAOgyUV3S2K4DvRXgfIL+JwA4w/grdLJngR9ZhWkpw6svaorv4Gn16km1Zmi9zIGHp+B95LdTNXKrLlIBa7uBQZrwGgIDPoAoUyMNoDLyrt+EGwbaYAoiuD7fg05vxUgkIruBM5uBBzHged5zTIPGoAD27ZBEEUYxSUu029rAcCAZVksnTIMQ5trgDRNNfM/jQZIkuTPnaIotEwDkFKuxHFcm1mW1bX9Mk0TYRiCWeU1ADVo/0b7RpVTVQOQHAQB2pA8z9F1OyEagAMFcV0XhPGT+Wus9JiZ1wKAJoNdotfWLwAAAP//4p6u1wAAAAZJREFUAwA6ipwhVMs4tQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "unhandled_root_fields": {},
+  "variable_placeholder_buttons": [],
+  "variable_placeholders": "",
+  "visible_box": [
+    1,
+    1,
+    0
+  ]
+}

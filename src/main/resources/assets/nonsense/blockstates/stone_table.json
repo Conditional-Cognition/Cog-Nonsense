@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/stone_table" },
+    "axis=z": { "model": "nonsense:block/stone_table", "y": 90 }
+  }
+}

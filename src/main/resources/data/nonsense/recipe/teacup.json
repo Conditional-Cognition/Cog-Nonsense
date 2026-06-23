@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:brick"
+    },
+    "I": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    "I#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "nonsense:teacup"
+  }
+}

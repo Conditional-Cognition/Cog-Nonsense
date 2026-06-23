@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/andesite_table" },
+    "axis=z": { "model": "nonsense:block/andesite_table", "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/bamboo_table" },
+    "axis=z": { "model": "nonsense:block/bamboo_table", "y": 90 }
+  }
+}

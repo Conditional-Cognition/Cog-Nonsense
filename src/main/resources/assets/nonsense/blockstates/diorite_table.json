@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/diorite_table" },
+    "axis=z": { "model": "nonsense:block/diorite_table", "y": 90 }
+  }
+}

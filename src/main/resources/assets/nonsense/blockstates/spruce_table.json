@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/spruce_table" },
+    "axis=z": { "model": "nonsense:block/spruce_table", "y": 90 }
+  }
+}

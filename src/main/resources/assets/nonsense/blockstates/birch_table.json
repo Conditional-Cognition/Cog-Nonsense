@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/birch_table" },
+    "axis=z": { "model": "nonsense:block/birch_table", "y": 90 }
+  }
+}

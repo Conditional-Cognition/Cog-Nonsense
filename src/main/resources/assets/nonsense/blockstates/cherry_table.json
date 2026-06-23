@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/cherry_table" },
+    "axis=z": { "model": "nonsense:block/cherry_table", "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "nonsense:block/oak_table" },
+    "axis=z": { "model": "nonsense:block/oak_table", "y": 90 }
+  }
+}
