@@ -2,6 +2,8 @@
 
 Teaspoons and Tablespoons, in summary.
 
+MOD IS HEAVILY IN DEVELOPMENT, THY HATH BEEN WARNED
+
 ## History
 - The mod was initially made as a joke and it continues to be so. The joke was 'If teaspoons spin tea then tablespoons spin tables.' likewise that's exactly what the mod does.
 
