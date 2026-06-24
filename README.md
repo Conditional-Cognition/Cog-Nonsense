@@ -1,6 +1,6 @@
 # Nonsense
 
-A Minecraft mod for NeoForge 1.21.1 that adds tables, teacups, teabags, tablespoons, teaspoons, and tea.
+Teaspoons and Tablespoons, in summary.
 
 ## History
 - The mod was initially made as a joke and it continues to be so. The joke was 'If teaspoons spin tea then tablespoons spin tables.' likewise that's exactly what the mod does.
