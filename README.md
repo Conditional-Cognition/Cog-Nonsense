@@ -15,3 +15,7 @@ A Minecraft mod for NeoForge 1.21.1 that adds tables, teacups, teabags, tablespo
 ## Credits
 - [Neoforge Mod Generator](https://neoforged.net/mod-generator/) (VERY USEFUL :D)
 - Partial Assistance from ChatGPT and Google's Search AI **for research**
+
+## Compatibility (for the most recent version)
+- Client ~ Probably Required
+- Server ~ Required but untested
